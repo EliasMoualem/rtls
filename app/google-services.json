@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "172179544718",
+    "firebase_url": "https://real-time-location-sharing.firebaseio.com",
+    "project_id": "real-time-location-sharing",
+    "storage_bucket": "real-time-location-sharing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172179544718:android:e578eaf6ef167a35",
+        "android_client_info": {
+          "package_name": "sim.unihannover.java2017.rtls4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172179544718-ku1for9hb3ojist826lp7u5cuj61cd72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAZqeAGNmLxNtrP-ca3tl6WVFY0k5Kxtk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RealTimeLocationSharing</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Anmelden</string>
+    <string name="title_activity_friendlist">Anmelden</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_user">Benutzername</string>
+    <string name="prompt_password">Passwort </string>
+    <string name="action_sign_in">Anmelden oder Registrieren</string>
+    <string name="action_sign_in_short">Anmelden</string>
+    <string name="error_invalid_user">Der Benutzername ist ungültig</string>
+    <string name="error_invalid_password">Das Passwort ist zu kurz</string>
+    <string name="error_incorrect_password">Das Passwort ist nicht korrekt</string>
+    <string name="error_field_required">Dieses Feld ist erforderlich</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_registration">Registrieren</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+</resources>

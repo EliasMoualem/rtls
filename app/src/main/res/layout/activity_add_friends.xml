@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:map="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent" >
+
+<EditText
+    android:id="@+id/AddFriendText"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="9dp"
+    android:layout_marginRight="9dp"
+    android:ems="10"
+    android:hint="Benutzername"
+    android:inputType="textPersonName"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="20dp" />
+
+<Button
+    android:id="@+id/AddFriendButton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Freund Hinzufügen"
+    android:layout_marginTop="21dp"
+    android:layout_below="@+id/AddFriendText"
+    android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
